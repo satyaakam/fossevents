@@ -29,3 +29,7 @@ FAQ
  Q: What happens if i am a Windows opens source developer i want to demo it at  an event ?
  
  A: its perfectly ok with any operating system as long as the demoed software falls under any of the Free and Open Source license it wil be entertained in an event .
+
+How do I use this code locally
+------------------------------
+Follow the instructions in the HOW_TO_USE document

@@ -1,0 +1,14 @@
+First keep the following tutorials open somewhere: 
+1. http://flask.pocoo.org/docs/tutorial
+2. http://api.mongodb.org/python/current/
+
+This app needs the following installed on your system
+1. Python
+2. Flask
+3. Mongodb
+4. Pymongo
+
+Instructions:
+1. Start 'mongod' from one shell
+2. Start 'python index.py' from another
+3. Your site is live at http://localhost:5000 -- enjoy
