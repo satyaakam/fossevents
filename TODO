@@ -1,0 +1,18 @@
+Taken from https://etherpad.mozilla.org/foss-event-site
+-------------------------------------------------------
+1. An API to create/read/update/delete events.
+        REST API is prefereable.
+        End points:
+            /events/<id>:
+                method: POST
+                request with all the data (name, date, description, tags etc)
+                Creates/updates the event
+            
+                method: GET
+                returns json data with event details
+                
+                method: DELETE
+                delete the event.
+
+2. The form requests the API with the data
+
