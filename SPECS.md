@@ -1,5 +1,4 @@
-Taken from https://etherpad.mozilla.org/foss-event-site
--------------------------------------------------------
+(Initially taken from https://etherpad.mozilla.org/foss-event-site)
 
 Ways of submitting events:
 ==========================
@@ -55,15 +54,16 @@ How
 Ways of viewing the site:
 ==================
 
-1. A calendar
-2. Search by keyword, location etc (like fossjobs.in)
-3. rss/atom feed
-4. Email subcription - Atomic subscription for each event. Periodic reminders of new events.
-4.5. automatic post to twitter handle @fosseventsin
-5. export as ics format?
+* A calendar
+* Search by keyword, location etc (like fossjobs.in)
+* rss/atom feed
+* Email subcription - Atomic subscription for each event. Periodic reminders of new events.
+* call-for-proposals and other deadlines calendar (like http://lwn.net/Calendar/Monthly/cfp/)
+* automatic post to twitter handle @fosseventsin
+* export as ics format?
 
 Future functionality --
-6. analytics on events in India
-7. visualisation of event data
-8. Google calender syncing
+* analytics on events in India
+* visualisation of event data
+* Google calender syncing
 
