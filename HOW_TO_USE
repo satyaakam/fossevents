@@ -2,6 +2,19 @@ First keep the following tutorials open somewhere:
 1. http://flask.pocoo.org/docs/tutorial
 2. http://api.mongodb.org/python/current/
 
+
+Depending on your GNU/Linux operating system and the way you choose to install the steps may vary
+
+
+Install python-virtualenv if you have already not done so
+Install virtualenvwrapper 
+
+$mkvirtualenv fossevents
+$pip install flask
+$pip install pymongo
+
+install Mongodb as root if not installed already
+
 This app needs the following installed on your system
 1. Python
 2. Flask
